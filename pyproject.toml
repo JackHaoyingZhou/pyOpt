@@ -12,4 +12,4 @@ requires = [
 [tool.setuptools_scm]
 write_to = "pyOpt/version.py"
 
-build-backend = "setuptools.build_meta"
+#build-backend = "setuptools.build_meta"
