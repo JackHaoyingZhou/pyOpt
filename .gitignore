@@ -13,4 +13,4 @@ build
 *.egg-info
 venv*
 /MANIFEST
-pyOpt/version.py
+/pyOpt/version.py
